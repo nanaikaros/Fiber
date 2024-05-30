@@ -1,0 +1,25 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(Fib VERSION 0.1.0 LANGUAGES C CXX)
+
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -Wall ")
+set(CMAKE_BUILD_TYPE "Debug") 
+include(CTest)
+enable_testing()
+
+include_directories(include)
+file(GLOB_RECURSE SRC_FILES "src/*.cpp")
+find_package(spdlog REQUIRED)
+#find_package(Threads REQUIRED)
+add_executable(test_scheduler test_scheduler.cpp ${SRC_FILES})
+add_executable(test_iomanager test_iomanager.cpp ${SRC_FILES})
+add_executable(test_fiber test_fiber.cpp ${SRC_FILES})
+add_executable(test_log test_log.cpp ${SRC_FILES})
+
+target_link_libraries(test_log spdlog::spdlog)
+target_link_libraries(test_scheduler spdlog::spdlog)
+target_link_libraries(test_iomanager spdlog::spdlog)
+target_link_libraries(test_fiber spdlog::spdlog)
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)

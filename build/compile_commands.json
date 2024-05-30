@@ -1,0 +1,170 @@
+[
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_scheduler.dir/test_scheduler.cpp.o -c /Project/Fiber/test_scheduler.cpp",
+  "file": "/Project/Fiber/test_scheduler.cpp",
+  "output": "CMakeFiles/test_scheduler.dir/test_scheduler.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_scheduler.dir/src/fiber.cpp.o -c /Project/Fiber/src/fiber.cpp",
+  "file": "/Project/Fiber/src/fiber.cpp",
+  "output": "CMakeFiles/test_scheduler.dir/src/fiber.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_scheduler.dir/src/iomanager.cpp.o -c /Project/Fiber/src/iomanager.cpp",
+  "file": "/Project/Fiber/src/iomanager.cpp",
+  "output": "CMakeFiles/test_scheduler.dir/src/iomanager.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_scheduler.dir/src/mutex.cpp.o -c /Project/Fiber/src/mutex.cpp",
+  "file": "/Project/Fiber/src/mutex.cpp",
+  "output": "CMakeFiles/test_scheduler.dir/src/mutex.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_scheduler.dir/src/scheduler.cpp.o -c /Project/Fiber/src/scheduler.cpp",
+  "file": "/Project/Fiber/src/scheduler.cpp",
+  "output": "CMakeFiles/test_scheduler.dir/src/scheduler.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_scheduler.dir/src/thread.cpp.o -c /Project/Fiber/src/thread.cpp",
+  "file": "/Project/Fiber/src/thread.cpp",
+  "output": "CMakeFiles/test_scheduler.dir/src/thread.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_scheduler.dir/src/timer.cpp.o -c /Project/Fiber/src/timer.cpp",
+  "file": "/Project/Fiber/src/timer.cpp",
+  "output": "CMakeFiles/test_scheduler.dir/src/timer.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_iomanager.dir/test_iomanager.cpp.o -c /Project/Fiber/test_iomanager.cpp",
+  "file": "/Project/Fiber/test_iomanager.cpp",
+  "output": "CMakeFiles/test_iomanager.dir/test_iomanager.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_iomanager.dir/src/fiber.cpp.o -c /Project/Fiber/src/fiber.cpp",
+  "file": "/Project/Fiber/src/fiber.cpp",
+  "output": "CMakeFiles/test_iomanager.dir/src/fiber.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_iomanager.dir/src/iomanager.cpp.o -c /Project/Fiber/src/iomanager.cpp",
+  "file": "/Project/Fiber/src/iomanager.cpp",
+  "output": "CMakeFiles/test_iomanager.dir/src/iomanager.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_iomanager.dir/src/mutex.cpp.o -c /Project/Fiber/src/mutex.cpp",
+  "file": "/Project/Fiber/src/mutex.cpp",
+  "output": "CMakeFiles/test_iomanager.dir/src/mutex.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_iomanager.dir/src/scheduler.cpp.o -c /Project/Fiber/src/scheduler.cpp",
+  "file": "/Project/Fiber/src/scheduler.cpp",
+  "output": "CMakeFiles/test_iomanager.dir/src/scheduler.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_iomanager.dir/src/thread.cpp.o -c /Project/Fiber/src/thread.cpp",
+  "file": "/Project/Fiber/src/thread.cpp",
+  "output": "CMakeFiles/test_iomanager.dir/src/thread.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_iomanager.dir/src/timer.cpp.o -c /Project/Fiber/src/timer.cpp",
+  "file": "/Project/Fiber/src/timer.cpp",
+  "output": "CMakeFiles/test_iomanager.dir/src/timer.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_fiber.dir/test_fiber.cpp.o -c /Project/Fiber/test_fiber.cpp",
+  "file": "/Project/Fiber/test_fiber.cpp",
+  "output": "CMakeFiles/test_fiber.dir/test_fiber.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_fiber.dir/src/fiber.cpp.o -c /Project/Fiber/src/fiber.cpp",
+  "file": "/Project/Fiber/src/fiber.cpp",
+  "output": "CMakeFiles/test_fiber.dir/src/fiber.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_fiber.dir/src/iomanager.cpp.o -c /Project/Fiber/src/iomanager.cpp",
+  "file": "/Project/Fiber/src/iomanager.cpp",
+  "output": "CMakeFiles/test_fiber.dir/src/iomanager.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_fiber.dir/src/mutex.cpp.o -c /Project/Fiber/src/mutex.cpp",
+  "file": "/Project/Fiber/src/mutex.cpp",
+  "output": "CMakeFiles/test_fiber.dir/src/mutex.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_fiber.dir/src/scheduler.cpp.o -c /Project/Fiber/src/scheduler.cpp",
+  "file": "/Project/Fiber/src/scheduler.cpp",
+  "output": "CMakeFiles/test_fiber.dir/src/scheduler.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_fiber.dir/src/thread.cpp.o -c /Project/Fiber/src/thread.cpp",
+  "file": "/Project/Fiber/src/thread.cpp",
+  "output": "CMakeFiles/test_fiber.dir/src/thread.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_fiber.dir/src/timer.cpp.o -c /Project/Fiber/src/timer.cpp",
+  "file": "/Project/Fiber/src/timer.cpp",
+  "output": "CMakeFiles/test_fiber.dir/src/timer.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_log.dir/test_log.cpp.o -c /Project/Fiber/test_log.cpp",
+  "file": "/Project/Fiber/test_log.cpp",
+  "output": "CMakeFiles/test_log.dir/test_log.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_log.dir/src/fiber.cpp.o -c /Project/Fiber/src/fiber.cpp",
+  "file": "/Project/Fiber/src/fiber.cpp",
+  "output": "CMakeFiles/test_log.dir/src/fiber.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_log.dir/src/iomanager.cpp.o -c /Project/Fiber/src/iomanager.cpp",
+  "file": "/Project/Fiber/src/iomanager.cpp",
+  "output": "CMakeFiles/test_log.dir/src/iomanager.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_log.dir/src/mutex.cpp.o -c /Project/Fiber/src/mutex.cpp",
+  "file": "/Project/Fiber/src/mutex.cpp",
+  "output": "CMakeFiles/test_log.dir/src/mutex.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_log.dir/src/scheduler.cpp.o -c /Project/Fiber/src/scheduler.cpp",
+  "file": "/Project/Fiber/src/scheduler.cpp",
+  "output": "CMakeFiles/test_log.dir/src/scheduler.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_log.dir/src/thread.cpp.o -c /Project/Fiber/src/thread.cpp",
+  "file": "/Project/Fiber/src/thread.cpp",
+  "output": "CMakeFiles/test_log.dir/src/thread.cpp.o"
+},
+{
+  "directory": "/Project/Fiber/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Project/Fiber/include  -g -Wall  -g -o CMakeFiles/test_log.dir/src/timer.cpp.o -c /Project/Fiber/src/timer.cpp",
+  "file": "/Project/Fiber/src/timer.cpp",
+  "output": "CMakeFiles/test_log.dir/src/timer.cpp.o"
+}
+]
